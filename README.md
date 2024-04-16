@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ## I’m Gaurav Juneja
 
-I'm pursuing MCA and aspiring to become a Web Developer. Proficient in HTML, CSS, JavaScript, and Bootstrap, I'm eager to collaborate on exciting projects.
+Currently pursuing MCA, I have a strong interest in Web Development. With expertise in HTML, CSS, JavaScript, and Bootstrap, I'm enthusiastic about collaborating on dynamic and impactful projects.
 
 ## 👀 About Me
 
